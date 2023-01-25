@@ -1,6 +1,6 @@
 // Java Program to print the multiplication table of the
 // number N.
-class Table {
+class table {
 	public static void main(String[] args)
 	{
 		// number n for which we have to print the
